@@ -6,7 +6,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1zPkmtZkopM-am5Ma-q9GJse4RwVhsCWV/view?usp=sharing](https://drive.google.com/file/d/1zPkmtZkopM-am5Ma-q9GJse4RwVhsCWV/view?usp=sharing)
 <br>
 <br>
-<img align='left' src="./Hina Amano Weathering With You GIF - Hina Amano Weathering With You Animation - Discover & Share GIFs.gif" width="100%" height="80%">
+<img align='left' src="./Hina Amano Weathering With You GIF - Hina Amano Weathering With You Animation - Discover & Share GIFs.gif" width="100%" height="20%">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ketan kumavat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ketan kumavat" height="30" width="40" /></a>
