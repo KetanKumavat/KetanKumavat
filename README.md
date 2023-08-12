@@ -8,10 +8,10 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ketan-kumavat-6048a6257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ketan kumavat" height="30" width="40" /></a>
-<a href="https://instagram.com/ketanvm_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ketanvm_" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ketankumavat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ketankumavat" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ketan_kumavat191" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ketan_kumavat191" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ketan-kumavat-6048a6257/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ketan kumavat" height="30" width="40" /></a>
+<a href="https://instagram.com/ketanvm_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ketanvm_" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/ketankumavat" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ketankumavat" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ketan_kumavat191" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ketan_kumavat191" height="30" width="40" /></a>
 </p>
 <br>
 <br>
