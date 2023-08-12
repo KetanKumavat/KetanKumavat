@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Ketan</h1> <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200' style="margin-top="2%"">
 <h3 align="left">A Nerd</h3>
 <img src="image-1.png" width="50px"> 
-## About me 🧙‍♂️ : 
+About me 🧙‍♂️ : 
 Hiiii I'm A Tech nerd and a learner 🧑‍💻, I am currently learning new skills.
 
 
