@@ -4,8 +4,11 @@
 <h1 align="left">About me 🧙‍♂️ : </h1> 
 <br>
 Hiiii I'm A Tech nerd and a learner 🧑‍💻, I am currently learning new skills.
+- 🤾 I’m currently learning **JavaScript, React**
+
+- 💬 Ask me about **Ui/Ux, App Development**
 <br>
-- 📄 Here's my resume [My Resume](https://drive.google.com/file/d/1zPkmtZkopM-am5Ma-q9GJse4RwVhsCWV/view?usp=sharing)
+- 📝 Here's my Resume [Resume](https://drive.google.com/file/d/1zPkmtZkopM-am5Ma-q9GJse4RwVhsCWV/view?usp=sharing)
 <br>
 <br>
 <img align='left' src="./Hina Amano Weathering With You GIF - Hina Amano Weathering With You Animation - Discover & Share GIFs.gif" width="100%">
