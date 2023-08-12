@@ -1,9 +1,11 @@
 <h1 align="left">Hi 👋, I'm Ketan</h1> <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 <h3 align="left">A Nerd</h3>
+## About me 🧙‍♂️ : 
+Hiiii I'm A Tech nerd and a learner 🧑‍💻, I am currently learning new skills.
 - 📄 Know about my experiences [https://drive.google.com/file/d/1zPkmtZkopM-am5Ma-q9GJse4RwVhsCWV/view?usp=sharing](https://drive.google.com/file/d/1zPkmtZkopM-am5Ma-q9GJse4RwVhsCWV/view?usp=sharing)
 <br>
 <br>
-<img align='left' src="./Hina Amano Weathering With You GIF - Hina Amano Weathering With You Animation - Discover & Share GIFs.gif" width="100%">
+<img align='center' src="./Hina Amano Weathering With You GIF - Hina Amano Weathering With You Animation - Discover & Share GIFs.gif" width="80%">
 <br>
 <br>
 <h3 align="left">Connect with me:</h3>
