@@ -5,7 +5,7 @@
 <br>
 Hiiii I'm A Tech nerd and a learner 🧑‍💻, I am currently learning new skills.<br>
 - 🤾 I’m currently learning <b>JavaScript, React</b>
-<p>- Here's My <a href='https://drive.google.com/file/d/1zPkmtZkopM-am5Ma-q9GJse4RwVhsCWV/view?usp=sharing'>Resume</a></p>
+<p>- 📑 Here's My <a href='https://drive.google.com/file/d/1zPkmtZkopM-am5Ma-q9GJse4RwVhsCWV/view?usp=sharing'>Resume</a></p>
 <br>
 <br>
 <br>
