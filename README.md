@@ -1,12 +1,17 @@
-<h1 align="left">Hi 👋, I'm Ketan</h1> <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200' style="margin-top="2%"">
+<h1 align="left">Hi 👋, I'm Ketan!</h1> <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200' style="margin-top="2%"">
 <h3 align="left">Web Developer 🤓</h3>
 <img src="image-1.png" width="50px">
 <h1 align="left">About me 🧙‍♂️ : </h1> 
 <br>
-Hiiii I'm A Tech nerd and a learner 🧑‍💻, I am currently learning new skills.<br>
-- 🤾 I’m currently learning <b>JavaScript, React</b>
-<p>- 📑 Here's My <a href='https://drive.google.com/file/d/1zPkmtZkopM-am5Ma-q9GJse4RwVhsCWV/view?usp=sharing'>Resume</a></p>
+Hiiii I'm A Tech nerd and a learner 🧑‍💻, I am currently learning new skills.
 <br>
+<br>
+<ul>
+<li>🌱 I’m currently learning <b>JavaScript, React</b></li>
+<li>👨‍💻 All of my projects are available at <a href="https://ketankumavat.github.io/Portfolio/">Portfolio</a></li>
+<li>💬 Ask me about <b>C,C++,HTML,CSS</b></li>
+<li>📑 Here's My <a href='https://drive.google.com/file/d/1zPkmtZkopM-am5Ma-q9GJse4RwVhsCWV/view?usp=sharing'>Resume</a></li>
+<li>✉️ How to Contact Me <a href="mailto:ketan.kumavat1984@gmail.com" target="_blank">Ketan Kumavat</a></li>
 <br>
 <br>
 <img align='left' src="./Hina Amano Weathering With You GIF - Hina Amano Weathering With You Animation - Discover & Share GIFs.gif" width="100%">
