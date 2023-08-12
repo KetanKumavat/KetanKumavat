@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Ketan!</h1>
+<h1 align="left">Hi 👋, I'm Ketan!</h1> <img align='right' src="https://i.pinimg.com/564x/b2/97/90/b29790fc676170d2ee704140d04f1bfe.jpg" width='200px'>
 <h3 align="left">Web Developer 🤓</h3>
 <img src="image-1.png" width="50px">
 <h1 align="left">About me 🧙‍♂️ : </h1> 
