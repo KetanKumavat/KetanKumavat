@@ -3,7 +3,7 @@
 ## About me 🧙‍♂️ : 
 Hiiii I'm A Tech nerd and a learner 🧑‍💻, I am currently learning new skills.
 <br>
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zPkmtZkopM-am5Ma-q9GJse4RwVhsCWV/view?usp=sharing](https://drive.google.com/file/d/1zPkmtZkopM-am5Ma-q9GJse4RwVhsCWV/view?usp=sharing)
+- 📄 Here's my resume [https://drive.google.com/file/d/1zPkmtZkopM-am5Ma-q9GJse4RwVhsCWV/view?usp=sharing](https://drive.google.com/file/d/1zPkmtZkopM-am5Ma-q9GJse4RwVhsCWV/view?usp=sharing)
 <br>
 
 <br>
