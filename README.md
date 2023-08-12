@@ -4,9 +4,7 @@
 <h1 align="left">About me 🧙‍♂️ : </h1> 
 <br>
 Hiiii I'm A Tech nerd and a learner 🧑‍💻, I am currently learning new skills.
-- 🤾 I’m currently learning **JavaScript, React**
-
-- 💬 Ask me about **Ui/Ux, App Development**
+- 🤾 I’m currently learning **JavaScript**
 <br>
 - 📝 Here's my Resume [Resume](https://drive.google.com/file/d/1zPkmtZkopM-am5Ma-q9GJse4RwVhsCWV/view?usp=sharing)
 <br>
