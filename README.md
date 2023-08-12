@@ -1,10 +1,10 @@
 <h1 align="left">Hi 👋, I'm Ketan</h1> <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200' style="margin-top="2%"">
-<h3 align="left">A Nerd 🤓</h3>
+<h3 align="left">Web Developer 🤓</h3>
 <img src="image-1.png" width="50px">
 <h1 align="left">About me 🧙‍♂️ : </h1> 
 <br>
-Hiiii I'm A Tech nerd and a learner 🧑‍💻, I am currently learning new skills.
-- 🤾 I’m currently learning **JavaScript**
+Hiiii I'm A Tech nerd and a learner 🧑‍💻, I am currently learning new skills.<br>
+- 🤾 I’m currently learning <b>JavaScript, React</b>
 <br>
 - 📝 Here's my Resume [Resume](https://drive.google.com/file/d/1zPkmtZkopM-am5Ma-q9GJse4RwVhsCWV/view?usp=sharing)
 <br>
