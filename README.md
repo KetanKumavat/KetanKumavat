@@ -6,7 +6,7 @@ Hiiii I'm A Tech nerd and a learner 🧑‍💻, I am currently learning new ski
 - 📄 Know about my experiences [https://drive.google.com/file/d/1zPkmtZkopM-am5Ma-q9GJse4RwVhsCWV/view?usp=sharing](https://drive.google.com/file/d/1zPkmtZkopM-am5Ma-q9GJse4RwVhsCWV/view?usp=sharing)
 <br>
 <br>
-<img align='left' src="./Hina Amano Weathering With You GIF - Hina Amano Weathering With You Animation - Discover & Share GIFs.gif" width="`100%">
+<img align='left' src="./Hina Amano Weathering With You GIF - Hina Amano Weathering With You Animation - Discover & Share GIFs.gif" width="100%">
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
