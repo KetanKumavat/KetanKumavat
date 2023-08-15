@@ -10,7 +10,7 @@ Hiiii I'm A Tech nerd and a learner 🧑‍💻, I am currently learning new ski
 <li>🌱 I’m currently learning <b>JavaScript, React</b></li>
 <li>👨‍💻 All of my projects are available at <a href="https://ketankumavat.github.io/Portfolio/">Portfolio</a></li>
 <li>💬 Ask me about <b>C,C++,HTML,CSS</b></li>
-<li>📑 Here's My <a href='https://drive.google.com/file/d/1zPkmtZkopM-am5Ma-q9GJse4RwVhsCWV/view?usp=sharing'>Resume</a></li>
+<li>📑 Here's My <a href='https://drive.google.com/file/d/12FRu87Ynh-wYZ3tY2HIuyXYDPru2_YTW/view?usp=sharing'>Resume</a></li>
 <li>✉️ How to Contact Me <a href="mailto:ketan.kumavat1984@gmail.com" target="_blank">Ketan Kumavat</a></li>
 <br>
 <br>
