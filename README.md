@@ -14,7 +14,7 @@ Hiiii I'm A Tech nerd and a learner 🧑‍💻, I am currently learning new ski
 <li>✉️ How to Contact Me <a href="mailto:ketan.kumavat1984@gmail.com" target="_blank">Ketan Kumavat</a></li>
 <br>
 <br>
-<img align='left' src="./Hina Amano Weathering With You GIF - Hina Amano Weathering With You Animation - Discover & Share GIFs.gif" width="100%">
+<img align='left' src="./readmepic.gif" width="100%">
 
 .<br>
 
