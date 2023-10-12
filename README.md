@@ -40,4 +40,4 @@ Hiiii I'm A Tech nerd and a learner 🧑‍💻, I am currently learning new ski
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ketankumavat&" alt="ketankumavat" /></p>
 </div>
-
+[![An image of @ketankumavat's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ketankumavat)](https://holopin.io/@ketankumavat)
