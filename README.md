@@ -23,7 +23,6 @@ Hiiii I'm A Tech nerd and a learner 🧑‍💻, I am currently learning new ski
 <p align="left">
 <a href="https://www.linkedin.com/in/ketan-kumavat-6048a6257/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ketan kumavat" height="30" width="40" /></a>&nbsp;
 <a href="https://instagram.com/ketanvm_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ketanvm_" height="30" width="40" /></a>&nbsp;
-<a href="https://www.codechef.com/users/ketankumavat" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ketankumavat" height="30" width="40" /></a>&nbsp;
 <a href="https://www.hackerrank.com/ketan_kumavat191" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ketan_kumavat191" height="30" width="40" /></a>
 </p>
 <br>
