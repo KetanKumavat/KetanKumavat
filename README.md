@@ -7,7 +7,7 @@ Hiiii I'm A Tech nerd and a learner 🧑‍💻, I am currently learning new ski
 <br>
 <br>
 <ul>
-<li>🌱 I’m currently learning <b>React</b></li>
+<li>🌱 I’m currently learning <b>React and DSA</b> </li>
 <br>
 <br>
 <img align='left' src="./readmepic.gif" width="100%">
