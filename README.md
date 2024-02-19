@@ -3,11 +3,17 @@
 <img src="image-1.png" width="50px">
 <h1 align="left">About me 🧙‍♂️ : </h1> 
 <br>
-Hiiii I'm A Tech nerd and a learner 🧑‍💻, I am currently learning new skills.
+Hi I'm A Tech nerd 🧑‍💻
 <br>
 <br>
-<ul>
-<li>🌱 I’m currently learning <b>React and DSA</b> </li>
+
+
+- 🌱 I’m currently learning **React and DSA**
+- 📑 Here's my [Resume](https://drive.google.com/file/d/1zi180gFerL1HIK6lzFZVHC3C3cyY1ype/view?usp=sharing)
+- 🤓 I’m currently working on NextJs, Typescript, Nodejs, Express.js and DSA
+
+
+
 <br>
 <br>
 <img align='left' src="./readmepic.gif" width="100%">
@@ -23,8 +29,12 @@ Hiiii I'm A Tech nerd and a learner 🧑‍💻, I am currently learning new ski
 </p>
 <h1 align="left">Languages and Tools:</h1>
 <br>
-<p align="left"> <a href="#" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> &nbsp;<a href="#"rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> &nbsp;<a href="#" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> &nbsp;</a>&nbsp;<a href="#"  rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="45"/> </a>&nbsp; <a href="#" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> &nbsp;<a href="#" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp;<a href="#" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="45"/> &nbsp;</a>&nbsp;<a href="#" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>&nbsp;
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>&nbsp; <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a></p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,express,nodejs,git,md,mongodb,nextjs,react,tailwind,postman,c,cpp,py,vite&perline=9" />
+  </a>
+</p>
 <div align="center">
 <br>
 
