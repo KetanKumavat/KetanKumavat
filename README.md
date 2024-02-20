@@ -9,7 +9,7 @@ Hi I'm A Tech nerd 🧑‍💻
 
 
 - 🌱 I’m currently learning **React and DSA**
-- 📑 Here's my [Resume](https://drive.google.com/file/d/18_PFA1mYaszcsgIwyWYBeU13UkseuqOh/view?usp=sharing)
+- 📑 Here's my [Resume](https://drive.google.com/file/d/1m0a33a_g1nPyLzLrv0Rym2czFK7DkRBF/view?usp=sharing)
 - 🤓 I’m currently working on NextJs, Typescript, Nodejs, Express.js and DSA
 
 
