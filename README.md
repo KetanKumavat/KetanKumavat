@@ -7,21 +7,11 @@ Hi I'm A Tech nerd 🧑‍💻
 <br>
 <br>
 
-
-- 🌱 I’m currently learning **React and DSA**
+- 🌱 I’m currently working on NextJs, Typescript, Nodejs, Express.js and DSA
 - 📑 Here's my [Resume](https://drive.google.com/file/d/1m0a33a_g1nPyLzLrv0Rym2czFK7DkRBF/view?usp=sharing)
-- 🤓 I’m currently working on NextJs, Typescript, Nodejs, Express.js and DSA
 
-
-
-<br>
-<br>
 <img align='left' src="./readmepic.gif" width="100%">
-
-.<br>
-
 <h1 align="left">Connect with me:</h1>
-
 <p align="left">
 <a href="https://www.linkedin.com/in/ketan-kumavat-6048a6257/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ketan kumavat" height="30" width="40" /></a>&nbsp;
 <a href="https://instagram.com/ketanvm_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ketanvm_" height="30" width="40" /></a>&nbsp;
