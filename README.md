@@ -33,7 +33,7 @@ Hi I'm A Tech nerd 🧑‍💻
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ketankumavat&show_icons=true&locale=en&layout=compact&theme=radical" height="175" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=ketankumavat&show_icons=true&theme=transparent" height="175" alt="grades"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ketankumavat&show_icons=true&locale=en&layout=compact&theme=radical" height="175" align="left" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ketankumavat&show_icons=true&theme=transparent" align="right" height="175" alt="grades"/>
 </div>
 </div>
