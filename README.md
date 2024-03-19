@@ -3,9 +3,7 @@
 <img src="image-1.png" width="50px">
 <h1 align="left">About me 🧙‍♂️ : </h1> 
 <br>
-Hi I'm A Tech nerd 🧑‍💻
-<br>
-<br>
+<h2 align="left">Hola 🧑‍💻</h2> 
 
 - 🌱 I’m currently working on NextJs, Typescript, Nodejs, Express.js and DSA
 - 📑 Here's my [Resume](https://drive.google.com/file/d/1m0a33a_g1nPyLzLrv0Rym2czFK7DkRBF/view?usp=sharing)
@@ -22,7 +20,7 @@ Hi I'm A Tech nerd 🧑‍💻
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,express,nodejs,git,md,mongodb,nextjs,react,tailwind,postman,c,cpp,py,vite&perline=9" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,git,md,mongodb,firebase,react,tailwind,vite,nextjs,express,nodejs,postman,c,cpp,py&perline=10" />
   </a>
 </p>
 <div align="center">
