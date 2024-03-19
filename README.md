@@ -2,19 +2,22 @@
 <h3 align="left">Web Developer 🤓</h3>
 <img src="image-1.png" width="50px">
 <h1 align="left">About me 🧙‍♂️ : </h1> 
-<br>
-<h2 align="left">Hola 🧑‍💻</h2> 
 
 - 🌱 I’m currently working on NextJs, Typescript, Nodejs, Express.js and DSA
 - 📑 Here's my [Resume](https://drive.google.com/file/d/1m0a33a_g1nPyLzLrv0Rym2czFK7DkRBF/view?usp=sharing)
+- 📝 Here's my  [LinkedIn](https://www.linkedin.com/in/ketankumavat/)
+- 📫 Feel free to reach me out **ketan.kumavat1984@gmail.com**
 
+<br/>
 <img align='left' src="./readmepic.gif" width="100%">
+<br/>
 <h1 align="left">Connect with me:</h1>
-<p align="left">
-<a href="https://www.linkedin.com/in/ketan-kumavat-6048a6257/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ketan kumavat" height="30" width="40" /></a>&nbsp;
-<a href="https://instagram.com/ketanvm_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ketanvm_" height="30" width="40" /></a>&nbsp;
-<a href="https://www.hackerrank.com/ketan_kumavat191" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ketan_kumavat191" height="30" width="40" /></a>
+<p align="center">
+<a href="https://www.linkedin.com/in/ketankumavat/" target="blank"><img style="border-radius: 100%" align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/ketan_kumavat191" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ketan_kumavat191" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.leetcode.com/Ketan_Kumavat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ketan_kumavat" height="50" width="50" /></a>
 </p>
+
 <h1 align="left">Languages and Tools:</h1>
 <br>
 
