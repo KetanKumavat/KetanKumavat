@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Ketan!</h1> <img align='right' src="./github_img.png" width='200px'>
-<h3 align="left">Web Developer 🤓</h3>
+<h3 align="left">Fullstack Web Developer 🕸️</h3>
 <img src="image-1.png" width="50px">
 <h1 align="left">About me 🧙‍♂️ : </h1> 
 
