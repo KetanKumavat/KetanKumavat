@@ -4,7 +4,7 @@
 <h1 align="left">About me 🧙‍♂️ : </h1> 
 
 - 🌱 I’m currently working on NextJs, Typescript, Nodejs, Express.js and DSA
-- 📑 Here's my [Resume](https://drive.google.com/file/d/1mY8rzZdsn0SmcHmzHdHhDSWMo-1dQQbq/view?usp=sharing)
+- 📑 Here's my [Resume](https://drive.google.com/file/d/13WfWKWbY9EebPuF6WfhAPy3Q90dHXgxR/view)
 - 📝 Here's my  [LinkedIn](https://www.linkedin.com/in/ketankumavat/)
 - 📫 Feel free to reach me out **ketan.kumavat1984@gmail.com**
 
