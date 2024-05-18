@@ -31,14 +31,13 @@
 
 [![An image of @ketankumavat's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ketankumavat)](https://holopin.io/@ketankumavat)
 
+  [![](https://visitcount.itsvg.in/api?id=ketanKumavat&label=Profile%20Views&color=6&icon=2&pretty=true)](https://visitcount.itsvg.in)
+
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ketankumavat&show_icons=true&locale=en&layout=compact&theme=radical" height="175" align="left" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=ketankumavat&show_icons=true&theme=transparent" align="right" height="175" alt="grades"/>
-  
-  [![](https://visitcount.itsvg.in/api?id=ketanKumavat&label=Profile%20Views&color=6&icon=2&pretty=true)](https://visitcount.itsvg.in)
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ketankumavat&show_icons=true&locale=en&layout=compact&theme=radical" height="175" align="center" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ketankumavat&show_icons=true&theme=transparent" align="center" height="175" alt="grades"/>  
 </div>
 </div>
 
