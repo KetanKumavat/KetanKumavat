@@ -36,5 +36,10 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ketankumavat&show_icons=true&locale=en&layout=compact&theme=radical" height="175" align="left" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=ketankumavat&show_icons=true&theme=transparent" align="right" height="175" alt="grades"/>
+  
+  [![](https://visitcount.itsvg.in/api?id=ketanKumavat&label=Profile%20Views&color=6&icon=2&pretty=true)](https://visitcount.itsvg.in)
+  
 </div>
 </div>
+
+
