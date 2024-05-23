@@ -35,9 +35,11 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ketankumavat&show_icons=true&locale=en&layout=compact&theme=radical" height="175" align="center" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=ketankumavat&show_icons=true&theme=transparent" align="center" height="175" alt="grades"/>  
+<div align="center" gap=2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ketankumavat&show_icons=true&locale=en&layout=compact&theme=radical" height="175" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ketankumavat&show_icons=true&theme=transparent" height="175" alt="grades"/>
+  <br>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ketankumavat&show_icons=true&theme=transparent" height="175" alt="stats" /></p>
 </div>
 </div>
 
