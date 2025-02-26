@@ -9,7 +9,7 @@
 ### About Me 🧙‍♂️
 
 - 🌱 Currently working with **Next.js**, **TypeScript**, **Node.js**, **Express.js**, and honing my **DSA** skills.  
-- 💼 Explore my [**Resume**](https://drive.google.com/file/d/1mli-wS1Rzbhwt3tS06wvxQxkVNU0EX-J/view).  
+- 💼 Explore my [**Resume**](https://drive.google.com/file/d/10B05kq4ckdNthPwNJIZkOFrY5NqbNHGR/view).  
 - 📝 Let's connect on [**LinkedIn**](https://www.linkedin.com/in/ketankumavat/).  
 - 📫 Reach out: **ketan.kumavat1984@gmail.com**  
 
