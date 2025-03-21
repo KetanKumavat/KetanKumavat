@@ -6,62 +6,62 @@
 
 ---
 
-### About Me 🧙‍♂️
+### 🚀 About Me
 
-- 🌱 Currently working with **Next.js**, **TypeScript**, **Node.js**, **Express.js**, and honing my **DSA** skills.  
-- 💼 Explore my [**Resume**](https://drive.google.com/file/d/10B05kq4ckdNthPwNJIZkOFrY5NqbNHGR/view).  
-- 📝 Let's connect on [**LinkedIn**](https://www.linkedin.com/in/ketankumavat/).  
-- 📫 Reach out: **ketan.kumavat1984@gmail.com**  
+- 🔥 Building scalable applications with **Next.js**, **TypeScript**, **Node.js**, and **Express.js**.
+- 📖 Improving my **DSA skills** and actively participating in coding competitions.
+- 💼 Explore my **[Resume](https://drive.google.com/file/d/1vKPpZJoCmXOA7gFnOY3OuwnhI3zYNuSB/view)**.
+- 📝 Let's connect on **[LinkedIn](https://www.linkedin.com/in/ketankumavat/)**.
+- 📫 Reach out: **ketan.kumavat1984@gmail.com**.
 
 ---
 
-### Connect with Me 🌐
+### 🌍 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ketankumavat/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="50" width="50" style="border-radius:50%;">
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/ketan_kumavat191" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Hackerrank" height="50" width="50">
-  </a>&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
   <a href="https://www.leetcode.com/KetanKumavat/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="50" width="50">
-  </a>&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+  </a>
+  <a href="https://www.codechef.com/users/ketan0311" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-%235B4638.svg?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef">
+  </a>
   <a href="https://www.geeksforgeeks.org/user/ketankumam5jq/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="50" width="50">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-%2300C853.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks">
   </a>
 </p>
 
 ---
 
-### 🔧 Languages and Tools
+### 🔧 Technologies & Tools
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,html,css,bootstrap,tailwind,react,vite,nextjs,redux,git,github,nodejs,express,mongodb,postgres,prisma,postman,figma&perline=8" alt="Skills">
-  </a>
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,html,css,bootstrap,tailwind,react,vite,nextjs,redux,git,github,nodejs,express,mongodb,postgres,prisma,postman,figma&perline=8" alt="Tech Stack">
 </p>
 
 ---
 
-### 🏆 Badges  
-<div align="center">
+### 🏆 Achievements & Badges
+
+<p align="center">
   <a href="https://holopin.io/@ketankumavat">
     <img src="https://holopin.me/ketankumavat" alt="Holopin Badges">
   </a>
-</div>
+</p>
 
 ---
 
 ### 📊 GitHub Stats  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ketankumavat&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="175" />&nbsp;&nbsp;
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ketankumavat&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" height="175" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketankumavat&layout=compact&theme=radical" alt="Top Languages" height="175" />
-</div>
+</p>
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ketankumavat&theme=radical&hide_border=true" alt="GitHub Streak" height="175" />
-</div>
+</p>
 
 ---
