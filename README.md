@@ -10,7 +10,7 @@
 
 - 🔥 Building scalable applications with **Next.js**, **TypeScript**, **Node.js**, and **Express.js**.
 - 📖 Improving my **DSA skills** and actively participating in coding competitions.
-- 💼 Explore my **[Resume](https://drive.google.com/file/d/1JKpa_441cdTfWWdLNC_6SvZwZ0_yAv5h/view)**.
+- 💼 Explore my **[Resume](https://drive.google.com/file/d/1a162piKrKusKzFQNUsSnQv55IZGAdLaT/view)**.
 - 📝 Let's connect on **[LinkedIn](https://www.linkedin.com/in/ketankumavat/)**.
 - 📫 Reach out: **ketan.kumavat1984@gmail.com**.
 
