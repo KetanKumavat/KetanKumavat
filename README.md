@@ -18,9 +18,9 @@ I am a dedicated Full Stack Developer specializing in modern web technologies in
 
 ### Professional Links
 
--   **Portfolio:** [ketankumavat.me](https://ketankumavat.me)
+-   **Portfolio:** [ketankumavat.me](https://ketankumavat.dev)
 -   **Resume:** [View Document](https://drive.google.com/file/d/1a162piKrKusKzFQNUsSnQv55IZGAdLaT/view)
--   **Contact:** [ketan.kumavat1984@gmail.com](mailto:ketan.kumavat1984@gmail.com)
+-   **Contact:** [contact@ketankumavat.dev](mailto:contact@ketankumavat.dev)
 
 ---
 
